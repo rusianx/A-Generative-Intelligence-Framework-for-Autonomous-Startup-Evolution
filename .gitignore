@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# Checkpoints
+deep_scrape_checkpoint.json
+
+# IDE
+.vscode/
+.idea/
